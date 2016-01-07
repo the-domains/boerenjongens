@@ -1,0 +1,28 @@
+name: Boerenjongens
+favicon: null
+layout_spectrum: 0.10443192347884178
+typography_spectrum: 0.3887099165003747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7879484591539949
+  lightness: 0.014475839911028743
+  saturation: 0.544709071982652
+  rhythmicContrast: 0.45791864511556923
+purpose: []
