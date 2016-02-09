@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: Branderij ‘De Gekroonde Brandersketel’ en Museummolen ‘De Nieuwe Palmboom’.
-datePublished: '2016-01-07T16:53:10.494Z'
-dateModified: '2016-01-07T16:52:52.288Z'
+datePublished: '2016-02-09T23:13:05.194Z'
+dateModified: '2016-02-09T23:12:36.508Z'
 title: Nationaal Jenevermuseum Schiedam
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-01-07-nationaal-jenevermuseum-schiedam.md
 published: true
 url: nationaal-jenevermuseum-schiedam/index.html
