@@ -1,7 +1,7 @@
 name: Boerenjongens
 favicon: null
-layout_spectrum: 0.01598
-typography_spectrum: 0.24728
+layout_spectrum: 0.98482
+typography_spectrum: 0
 title: Boerenjongens is een creatief full service communicatiebureau
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#cad401'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
